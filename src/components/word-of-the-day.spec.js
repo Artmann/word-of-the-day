@@ -1,5 +1,5 @@
-import React from "react";
-import { mount } from "enzyme";
+import React from 'react';
+import { mount } from 'enzyme';
 import WordOfTheDay from './word-of-the-day';
 
 describe('WordOfTheDay', () => {
